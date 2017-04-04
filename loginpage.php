@@ -1,6 +1,6 @@
-<?php include 'database.php';?>
+<?php include 'database.php';
 
-<?php
+
 $email = $_POST['username'];
 $password = $_POST['password'];
 
