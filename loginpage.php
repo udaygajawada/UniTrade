@@ -15,7 +15,7 @@ elseif($dbpassword["password"] == $password){
 	echo "successfully logged in";
 }
 else{
-	echo "Username and password do not match.Please try again.";
+	echo "Username and password do not match. Please try again.";
 }
 
 
